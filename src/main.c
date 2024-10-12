@@ -7,5 +7,6 @@ int main(int argc, char** argv) {
   }
   printf("Hello, %s\n", argv[1]);
   printf("This line is part of branch2\n");
+  printf("This line is part of branch1\n");
   return 0;
 }
